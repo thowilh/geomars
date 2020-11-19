@@ -2,9 +2,7 @@
 
 ### [Paper](https://www.google.com "Paper")|[Data](https://www.google.com "Paper")
 
-Thorsten Wilhelm, Melina Geis*, Jens Püttschneider*, Timo Sievernich*, Tobias Weber*, Kay Wohlfarth and Christian Wöhler
-
-* These authors contributed equally to this work.
+Thorsten Wilhelm, Melina Geis*, Jens Püttschneider*, Timo Sievernich*, Tobias Weber*, Kay Wohlfarth and Christian Wöhler, TU Dortmund University, * These authors contributed equally to this work.
 ## Results
 
 ### Automated Geomorphic Map Creation
