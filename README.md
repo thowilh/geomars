@@ -6,6 +6,8 @@ Thorsten Wilhelm, Melina Geis*, Jens Püttschneider*, Timo Sievernich*, Tobias W
 
 This repository contains the code to recreate the tables and figures of the paper "DoMars16k: A Diverse Dataset for Weakly Supervised Geomorphologic Analysis on Mars"
 
+![Map](images/map.png)
+
 ## Results
 
 ### Automated Geomorphic Map Creation
