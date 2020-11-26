@@ -35,7 +35,7 @@ hyper_params = {
     'learning_rate': 1e-2,
     'optimizer': 'sgd',
     'momentum': 0.9,
-    'model': 'densenet121',
+    'model': 'densenet161',
     'num_classes': 15,
     'pretrained': True,
     'transfer_learning': False,
