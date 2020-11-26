@@ -61,11 +61,11 @@ If you find this work useful please consider citing:
 @article{wilhelm2020domars16k,
   title={DoMars16k: A Diverse Dataset for Weakly Supervised Geomorphologic Analysis on Mars},
   author={Wilhelm, Thorsten and Geis, Melina and P\"uttschneider, Jens and Sievernich, Timo and Weber, Tobias and Wohlfarth, Kay and W\"ohler, Christian},
-  journal={Remote Sensing},
-  volume={???},
-  number={???},
-  pages={???},
-  year={2020},
-  publisher={Multidisciplinary Digital Publishing Institute}
+  journal={under review},
+  volume={-},
+  number={-},
+  pages={-},
+  year={-},
+  publisher={-}
 }
 ```
