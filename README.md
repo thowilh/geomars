@@ -63,8 +63,6 @@ If you find this work useful please consider citing:
   author={Wilhelm, Thorsten and Geis, Melina and P\"uttschneider, Jens and Sievernich, Timo and Weber, Tobias and Wohlfarth, Kay and W\"ohler, Christian},
   journal={Remote Sensing},
   year={2020},
-  doi = {10.3390/rs00010005},
-  url = {https://dx.doi.org/10.3390/rs00010005},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
