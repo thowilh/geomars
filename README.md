@@ -64,7 +64,7 @@ If you find this work useful please consider citing:
   journal={Remote Sensing},
   year={2020},
   doi = {10.3390/rs00010005},
-  url = {https://dx.doi.org/10.3390/rs00010005}
+  url = {https://dx.doi.org/10.3390/rs00010005},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
