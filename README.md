@@ -1,6 +1,6 @@
 # DoMars16k: A Diverse Dataset for Weakly Supervised Geomorphologic Analysis on Mars
 
-### [Paper](https://dx.doi.org/ "Paper") | [Data](https://dx.doi.org/10.5281/zenodo.4291940 "Data")
+### [Paper](https://www.mdpi.com/2072-4292/12/23/3981 "Paper") | [Data](https://dx.doi.org/10.5281/zenodo.4291940 "Data")
 
 Thorsten Wilhelm, Melina Geis*, Jens Püttschneider*, Timo Sievernich*, Tobias Weber*, Kay Wohlfarth and Christian Wöhler, TU Dortmund University, * These authors contributed equally to this work.
 
