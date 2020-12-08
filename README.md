@@ -57,12 +57,20 @@ Run `make_map.py` to load a pre-trained network from the `models` folder accordi
 ## Citation
 If you find this work useful please consider citing:
 
+Wilhelm, T.; Geis, M.; Püttschneider, J.; Sievernich, T.; Weber, T.; Wohlfarth, K.; Wöhler, C. DoMars16k: A Diverse Dataset for Weakly Supervised Geomorphologic Analysis on Mars. Remote Sens. 2020, 12, 3981.
+
 ```
 @article{wilhelm2020domars16k,
-  title={DoMars16k: A Diverse Dataset for Weakly Supervised Geomorphologic Analysis on Mars},
-  author={Wilhelm, Thorsten and Geis, Melina and P\"uttschneider, Jens and Sievernich, Timo and Weber, Tobias and Wohlfarth, Kay and W\"ohler, Christian},
-  journal={Remote Sensing},
-  year={2020},
-  publisher={Multidisciplinary Digital Publishing Institute}
+  doi = {10.3390/rs12233981},
+  url = {https://doi.org/10.3390/rs12233981},
+  year = {2020},
+  month = dec,
+  publisher = {{MDPI} {AG}},
+  volume = {12},
+  number = {23},
+  pages = {3981},
+  author = {Thorsten Wilhelm and Melina Geis and Jens P\"{u}ttschneider and Timo Sievernich and Tobias Weber and Kay Wohlfarth and Christian W\"{o}hler},
+  title = {{DoMars}16k: A Diverse Dataset for Weakly Supervised Geomorphologic Analysis on Mars},
+  journal = {Remote Sensing}
 }
 ```
